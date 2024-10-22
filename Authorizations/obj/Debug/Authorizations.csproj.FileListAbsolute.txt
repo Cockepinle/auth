@@ -1,0 +1,10 @@
+C:\Users\alepi\source\repos\Authorizations\Authorizations\obj\Debug\Authorizations.csproj.AssemblyReference.cache
+C:\Users\alepi\source\repos\Authorizations\Authorizations\obj\Debug\Authorizations.csproj.CoreCompileInputs.cache
+C:\Users\alepi\source\repos\Authorizations\Authorizations\bin\Debug\Authorizations.exe.config
+C:\Users\alepi\source\repos\Authorizations\Authorizations\bin\Debug\Authorizations.exe
+C:\Users\alepi\source\repos\Authorizations\Authorizations\bin\Debug\Authorizations.pdb
+C:\Users\alepi\source\repos\Authorizations\Authorizations\bin\Debug\System.Data.SqlClient.dll
+C:\Users\alepi\source\repos\Authorizations\Authorizations\bin\Debug\System.Data.SqlClient.xml
+C:\Users\alepi\source\repos\Authorizations\Authorizations\obj\Debug\Authoriz.70187E45.Up2Date
+C:\Users\alepi\source\repos\Authorizations\Authorizations\obj\Debug\Authorizations.exe
+C:\Users\alepi\source\repos\Authorizations\Authorizations\obj\Debug\Authorizations.pdb

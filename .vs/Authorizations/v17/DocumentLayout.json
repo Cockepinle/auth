@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alepi\\source\\repos\\Authorizations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8589AB9-5B79-4A41-A25B-F35B96178788}|UnitTestProject1\\Authorization.Tests.csproj|c:\\users\\alepi\\source\\repos\\authorizations\\unittestproject1\\stubuserrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8589AB9-5B79-4A41-A25B-F35B96178788}|UnitTestProject1\\Authorization.Tests.csproj|solutionrelative:unittestproject1\\stubuserrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2726F30-8C9D-484A-911D-1A1CD0CE20F2}|Authorizations\\Authorizations.csproj|c:\\users\\alepi\\source\\repos\\authorizations\\authorizations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2726F30-8C9D-484A-911D-1A1CD0CE20F2}|Authorizations\\Authorizations.csproj|solutionrelative:authorizations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2726F30-8C9D-484A-911D-1A1CD0CE20F2}|Authorizations\\Authorizations.csproj|c:\\users\\alepi\\source\\repos\\authorizations\\authorizations\\stubuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2726F30-8C9D-484A-911D-1A1CD0CE20F2}|Authorizations\\Authorizations.csproj|solutionrelative:authorizations\\stubuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2726F30-8C9D-484A-911D-1A1CD0CE20F2}|Authorizations\\Authorizations.csproj|c:\\users\\alepi\\source\\repos\\authorizations\\authorizations\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2726F30-8C9D-484A-911D-1A1CD0CE20F2}|Authorizations\\Authorizations.csproj|solutionrelative:authorizations\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1546,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1a46fd64-28d5-434c-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StubUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\alepi\\source\\repos\\Authorizations\\Authorizations\\StubUserRepository.cs",
+              "RelativeDocumentMoniker": "Authorizations\\StubUserRepository.cs",
+              "ToolTip": "C:\\Users\\alepi\\source\\repos\\Authorizations\\Authorizations\\StubUserRepository.cs",
+              "RelativeToolTip": "Authorizations\\StubUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T17:57:47.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\alepi\\source\\repos\\Authorizations\\Authorizations\\UsersRepository.cs",
+              "RelativeDocumentMoniker": "Authorizations\\UsersRepository.cs",
+              "ToolTip": "C:\\Users\\alepi\\source\\repos\\Authorizations\\Authorizations\\UsersRepository.cs",
+              "RelativeToolTip": "Authorizations\\UsersRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:22:38.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alepi\\source\\repos\\Authorizations\\Authorizations\\Program.cs",
+              "RelativeDocumentMoniker": "Authorizations\\Program.cs",
+              "ToolTip": "C:\\Users\\alepi\\source\\repos\\Authorizations\\Authorizations\\Program.cs",
+              "RelativeToolTip": "Authorizations\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:21:39.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StubUserRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\alepi\\source\\repos\\Authorizations\\UnitTestProject1\\StubUserRepositoryTests.cs",
+              "RelativeDocumentMoniker": "UnitTestProject1\\StubUserRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\alepi\\source\\repos\\Authorizations\\UnitTestProject1\\StubUserRepositoryTests.cs",
+              "RelativeToolTip": "UnitTestProject1\\StubUserRepositoryTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:39:37.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
